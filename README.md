@@ -1,4 +1,4 @@
- # 👨‍💻📚👨‍🌾 Walter Oscar Londero
+# 👨‍💻📚👨‍🌾 Walter Oscar Londero
 
 ### Agricultor, Estudiante de Agronomía y Data Scientist-Engineer
 
@@ -33,15 +33,33 @@ Soy Walter Oscar Londero, un apasionado agricultor y estudiante de agronomía co
 
 ## 🛠 Tecnologías y Herramientas
 
+### Lenguajes de Programación
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
 
 ### Plataformas
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0468d7?style=for-the-badge&logo=render&logoColor=white)
 
+### Herramientas
+
+![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0769AD?style=for-the-badge&logo=matplotlib&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![App Engine](https://img.shields.io/badge/App%20Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
@@ -49,12 +67,4 @@ Soy Walter Oscar Londero, un apasionado agricultor y estudiante de agronomía co
 
 - **[Facebook](https://www.facebook.com/walteroscar.londero)**
 - **[Instagram](https://www.instagram.com/l0nderr)**
-- **[Twitter](https://x.com/l0nderr)**
-- **[LinkedIn](https://www.linkedin.com/in/walteroscarlondero)**
-
----
-
-## 📫 Contacto
-
-- **LinkedIn**: [Walter Oscar Londero](https://www.linkedin.com/in/walteroscarlondero)
-- **Email**: londerowaltercorreopf@gmail.com
+- **[Twitter](https://x.com/l0nderr)
