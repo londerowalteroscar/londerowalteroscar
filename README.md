@@ -1,4 +1,4 @@
-# 👨‍💻📚👨‍🌾 Walter Oscar Londero
+ # 👨‍💻📚👨‍🌾 Walter Oscar Londero
 
 ### Agricultor, Estudiante de Agronomía y Data Scientist-Engineer
 
@@ -33,8 +33,15 @@ Soy Walter Oscar Londero, un apasionado agricultor y estudiante de agronomía co
 
 ## 🛠 Tecnologías y Herramientas
 
-- **Lenguajes de Programación**: Java, Python, SQL, Arduino
-- **Plataformas**: Google Cloud Platform (GCP)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### Plataformas
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ---
 
