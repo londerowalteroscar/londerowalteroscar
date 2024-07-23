@@ -67,4 +67,5 @@ Soy Walter Oscar Londero, un apasionado agricultor y estudiante de agronomía co
 
 - **[Facebook](https://www.facebook.com/walteroscar.londero)**
 - **[Instagram](https://www.instagram.com/l0nderr)**
-- **[Twitter](https://x.com/l0nderr)
+- **[Twitter](https://x.com/l0nderr)**
+- **[GMAIL](londerowaltercorreopf@gmail.com)**
