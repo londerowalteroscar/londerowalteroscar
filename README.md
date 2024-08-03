@@ -1,6 +1,6 @@
 # 👨‍💻📚👨‍🌾 Walter Oscar Londero
 
-### Agricultor, Estudiante de Agronomía y Data Scientist-Engineer
+### Data Scientist-Engineer
 
 ---
 
